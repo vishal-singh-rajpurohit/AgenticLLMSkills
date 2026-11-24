@@ -1,0 +1,6 @@
+{
+  "name": "seo-skill",
+  "version": "1.0.0",
+  "description": "Universal, research-driven SEO Strategist and Technical SEO Engineer skill covering discovery, keyword research, technical audits, content strategy, local/e-commerce/SaaS SEO, AI search visibility, analytics diagnostics, and codebase implementation.",
+  "skills": "./skills/"
+}

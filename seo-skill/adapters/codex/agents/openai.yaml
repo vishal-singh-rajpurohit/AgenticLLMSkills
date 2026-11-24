@@ -1,0 +1,5 @@
+display_name: "Universal SEO Strategist"
+short_description: "Research-driven SEO discovery, audits, keyword strategy, content, and code implementation."
+default_prompt: "Act as a Senior SEO Strategist using seo-skill. Inspect any provided URL or repo first, then either start a natural one-question-at-a-time discovery conversation or run the scoped technical SEO workflow."
+policy:
+  automatic_selection: true

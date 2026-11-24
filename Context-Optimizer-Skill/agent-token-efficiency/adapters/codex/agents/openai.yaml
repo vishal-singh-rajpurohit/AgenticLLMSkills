@@ -1,0 +1,5 @@
+display_name: "AI Agent Token Efficiency Engineer"
+short_description: "Optimize context density, progressive disclosure, caching, and audits without lowering quality."
+default_prompt: "Apply agent-token-efficiency to inspect context usage, optimize instruction/skill efficiency, and run read-only audits while preserving full reasoning, research, security, and verification standards."
+policy:
+  automatic_selection: true

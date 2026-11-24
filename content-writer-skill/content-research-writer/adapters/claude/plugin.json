@@ -1,0 +1,6 @@
+{
+  "name": "content-research-writer",
+  "version": "1.0.0",
+  "description": "Universal Content Research, Humanized Writing, Approval, and CMS/Static Publishing Agent Skill.",
+  "skills": "./skills/"
+}
