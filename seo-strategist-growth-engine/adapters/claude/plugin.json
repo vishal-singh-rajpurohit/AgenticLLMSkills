@@ -1,0 +1,6 @@
+{
+  "name": "seo-strategist-growth-engine",
+  "version": "1.0.0",
+  "description": "Universal SEO Strategist, Research, Technical Implementation, and Ranking Growth Agent Skill covering tool discovery, business interviews, competitor and keyword research, content strategy, codebase SEO implementation, Search Console/GA4 diagnostics, and controlled ranking experiments.",
+  "skills": "./skills/"
+}

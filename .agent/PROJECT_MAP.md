@@ -10,6 +10,7 @@
 | `project-documentation-architect` | `documentation-writer-skill/project-documentation-architect/` | Codebase discovery, multi-project docs, onboarding, audits | `documentation-writer-skill/project-documentation-architect/SKILL.md` |
 | `seo-skill` | `seo-skill/` | SEO strategy, discovery, technical/on-page/local/ecom/SaaS audits | `seo-skill/SKILL.md` |
 | `content-research-writer` | `content-writer-skill/content-research-writer/` | Research-first writing, approval preview, CMS/static publishing | `content-writer-skill/content-research-writer/SKILL.md` |
+| `seo-strategist-growth-engine` | `seo-strategist-growth-engine/` | End-to-end SEO discovery, tool discovery, strategy, technical fixes, experiments | `seo-strategist-growth-engine/SKILL.md` |
 
 ## Shared Policy
 - Canonical policy: `Context-Optimizer-Skill/agent-token-efficiency/references/default-policy.md`
@@ -18,3 +19,4 @@
 - `python Context-Optimizer-Skill/agent-token-efficiency/tests/run_tests.py -v`
 - `python documentation-writer-skill/project-documentation-architect/tests/run_tests.py -v`
 - `python seo-skill/tests/run_tests.py -v`
+- `python seo-strategist-growth-engine/tests/run_tests.py -v`

@@ -1,0 +1,5 @@
+display_name: "Universal SEO Strategist & Growth Engine"
+short_description: "End-to-end SEO discovery, tool integration, audits, keyword strategy, content, implementation, and ranking experiments."
+default_prompt: "Act as a Senior SEO Strategist using seo-strategist-growth-engine. Run tool discovery first, inspect any supplied URL or repo, then interview one question at a time or run the scoped technical SEO workflow."
+policy:
+  automatic_selection: true
